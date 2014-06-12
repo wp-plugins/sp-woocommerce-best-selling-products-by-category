@@ -22,6 +22,8 @@ The default short code is : <code>[best_selling_products per_page="12"] </code>
 
 And change in this shortcode with the help of best selling products by category plugin is : <code>[bestselling_product_categories cats="CATEGORY_ID" per_cat="6" columns="3"] </code>
 
+View [DEMO](http://wordpressplugins.sptechnolab.com/sp-woocommerce-best-selling-products-by-category/) for additional information.
+
 With this plugin you can now display woocommerce best selling products by category.
 
 = Features include: =
