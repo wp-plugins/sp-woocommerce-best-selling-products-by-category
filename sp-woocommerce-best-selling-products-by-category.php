@@ -1,11 +1,11 @@
 <?php
 /*
-Plugin Name: sp woocommerce best selling products by category
-Plugin URL: http://sptechnolab.com
+Plugin Name: WP woocommerce best selling products by category
+Plugin URL: http://wponlinesupport.com
 Description: Display woocommerce best selling products by category
 Version: 1.0
-Author: SP Technolab
-Author URI: http://www.sptechnolab.com
+Author: WP Online Support
+Author URI: http://wponlinesupport.com
 Contributors: SP Technolab
 */
 
