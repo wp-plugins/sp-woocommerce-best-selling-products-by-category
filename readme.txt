@@ -1,4 +1,4 @@
-=== sp woocommerce best selling products by category  ===
+=== WP woocommerce best selling products by category  ===
 Contributors: wponlinesupport, anoopranawat 
 Tags: woocommerce, best selling products , best selling products by category, shortcode , template code
 Requires at least: 3.1
