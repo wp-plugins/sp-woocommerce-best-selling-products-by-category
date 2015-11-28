@@ -14,9 +14,7 @@ A quick, easy way to add an best selling products by category to woocommerce.
 
 This is very simple plugin to display woocommerce best selling products by category
 
-= Installation help and support =
-* Please check [installation help](http://wponlinesupport.com/plugin-installation-support/)  on our website. View [Installation help and support](http://wponlinesupport.com/plugin-installation-support/) 
-* Get [Free installation and setup](http://wponlinesupport.com/plugin-installation-support/)  on your website.
+View [DEMO](http://demo.wponlinesupport.com/shop/wc-best-selling-products-by-category/) for additional information.
 
 View [Shortcodes included with WooCommerce](http://docs.woothemes.com/document/woocommerce-shortcodes/) for additional information.
 
@@ -24,7 +22,8 @@ In this plugin we have just changes the best selling shortcode.
 
 The default short code is : <code>[best_selling_products per_page="12"] </code>
 
-And change in this shortcode with the help of best selling products by category plugin is : <code>[bestselling_product_categories cats="CATEGORY_ID" per_cat="6" columns="3"] </code>
+And change in this shortcode with the help of best selling products by category plugin is : 
+<code>[bestselling_product_categories cats="CATEGORY_ID" per_cat="6" columns="3"] </code>
 
 
 With this plugin you can now display woocommerce best selling products by category.
